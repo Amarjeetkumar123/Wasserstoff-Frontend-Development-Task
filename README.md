@@ -1,8 +1,35 @@
-# Getting Started with Create React App
+# 1. Title : WSTF Frontend Hackathon 
+
+## 2. Technology stack/libraries used
+
+- ReactJs
+- HTML/CSS
+- Google Font
+- SVG
+
+## 3. Watch the Project Here (Deploy on Netlify) -
+
+### Live Link :- 
+
+### 4. Approaching task
+
+  - Firstly I Understood the layout of the project task UI
+  - Set up your development environment
+  - Break down project UI into smaller, reusable components.
+  - Identify the components that will have state and which ones will be stateless.
+  - Write code for each component, using JSX syntax to describe how they should look and behave.
+  - Once my application is ready, deploy it to a hosting platform "Netlify".
+  - Finished.
+  
+## Video link (5-10 min) explaining demo of the project :- 
+
+# 5. Steps to run/build the project -
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
