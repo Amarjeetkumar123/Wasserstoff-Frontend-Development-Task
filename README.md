@@ -21,7 +21,7 @@
   - Once my application is ready, deploy it to a hosting platform "Netlify".
   - Finished.
   
-## Video link (5-10 min) explaining demo of the project :- 
+## Video link (5-10 min) explaining demo of the project :- https://drive.google.com/file/d/18ZFgGz4NZzLSyBxX-5uexrrDseM6jR2Z/view?usp=sharing
 
 # 5. Steps to run/build the project -
 
