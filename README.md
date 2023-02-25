@@ -9,7 +9,7 @@
 
 ## 3. Watch the Project Here (Deploy on Netlify) -
 
-### Live Link :- 
+### Live Link :- https://amarjeet-wstf-frontend-hackathon.netlify.app/
 
 ### 4. Approaching task
 
