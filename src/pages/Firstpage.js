@@ -4,11 +4,14 @@ import CommentBox from '../component/first-page/CommentBox';
 import Leftbar from '../component/first-page/Leftbar'
 import Map from '../component/first-page/Map';
 
-const Firstpage = () => {
+const Firstpage = (props) => {
+
+  const users = props.users;
+ 
   return (
     <>
       <div style={{display:"flex",position:"relative"}}>
-        <Leftbar />
+        <Leftbar users={users} />
         <CommentBox/>
         <Map/>
       </div>

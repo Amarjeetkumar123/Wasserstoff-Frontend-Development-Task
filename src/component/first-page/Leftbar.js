@@ -1,5 +1,8 @@
 import React from "react";
-const Leftbar = () => {
+const Leftbar = (props) => {
+  
+ const users = props.users;
+  // console.log(users);
   return (
     <div className="left-bar">
       <div className="left-bar-first-elem">
